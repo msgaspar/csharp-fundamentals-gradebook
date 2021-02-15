@@ -80,8 +80,6 @@ namespace GradeBook
         }
 
         private List<double> grades;
-
-        readonly string category;
     }
 
     public class DiskBook : Book
