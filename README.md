@@ -1,6 +1,6 @@
 # GradeBook
 
-GradeBook is a simple console application created as a means to study and practice some key concepts of the C# language. Some of the concepts covered are:
+GradeBook is a simple console application created as a means to study and practice some key concepts of the C# language, following Scott Allen's [C# Fundamentals](https://app.pluralsight.com/library/courses/csharp-fundamentals-dev) course. Some of the concepts covered are:
 
 - Usage of the .NET Command Line Interface
 - Debugging a C# application
